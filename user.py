@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 nameUser=input("Как вас зовут? ")
 ageUser=input("Сколько вам лет? ")
 cityUser=input("В каком городе вы живете? ")
